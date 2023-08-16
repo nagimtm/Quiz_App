@@ -6,7 +6,7 @@
   box-shadow: 3px 3px blur black;
 }
 
-button {
+.button-prof {
   position: absolute;
   /* margin-bottom: 2vh; */
   width: 20vw;
@@ -14,10 +14,18 @@ button {
   background-color: black;
   color: white;
   box-shadow: 3px 3px blur black;
-  right: -9vw;
-  bottom: -15vh;
+  right: -7vw;
+  bottom: -10vh;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande";
   font-size: 1rem;
   border-radius: 1vw;
   box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.button {
+  margin-bottom: 2vh;
+  width: 18vw;
+  height: 6vh;
+  background-color: #40f8ff;
+  box-shadow: 3px 3px blur black;
 }

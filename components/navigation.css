@@ -25,3 +25,25 @@ nav {
 [alt="bookmark-book"] {
   background-color: lightgrey;
 }
+
+.navigation {
+  width: 97.5vw;
+  height: 12vh;
+  /* margin-top: 12vh; */
+  border-top: 2px solid black;
+  box-shadow: 0 0 3px black;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #fff3da;
+  /* background-color: #279eff; */
+}
+
+.nav-img {
+  width: 11vw;
+  height: 11vh;
+}
+
+[alt="homepage"] {
+  background-color: lightgrey;
+}
