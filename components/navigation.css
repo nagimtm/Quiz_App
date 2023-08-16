@@ -1,19 +1,25 @@
-.navigation {
+nav {
   width: 97.5vw;
   height: 12vh;
+  /* margin-top: 12vh; */
   border-top: 2px solid black;
   box-shadow: 0 0 3px black;
   display: flex;
   justify-content: space-around;
   align-items: center;
   background-color: #fff3da;
+  /* background-color: #279eff; */
+  margin-bottom: 12vh;
+  position: fixed;
+}
+
+[alt="profile"] {
+  background-color: lightgray;
 }
 
 .nav-img {
   width: 11vw;
   height: 11vh;
-}
-
-[alt="homepage"] {
-  background-color: lightgrey;
+  /* background-color: #40f8ff; */
+  /* background-color: #279eff; */
 }
