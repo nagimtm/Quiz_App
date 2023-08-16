@@ -1,4 +1,59 @@
-main {
+.main-profile {
+  background-color: #fff3da;
+  height: 74vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.section-profile {
+  display: flex;
+  width: 85vw;
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+  background-color: #fff3da;
+  justify-content: center;
+  position: relative;
+  margin-top: -10vh;
+}
+
+.bookmarked-card {
+  text-align: center;
+  /* margin-left: 6vw; */
+  /* margin-top: 10vh; */
+  align-self: center;
+}
+
+.p-profile {
+  text-align: center;
+}
+
+.prof-img {
+  margin-top: 5vh;
+  width: 15vw;
+  height: 15vh;
+}
+
+.span-profile {
+  text-align: center;
+  margin-left: 50vw;
+  text-align: center;
+  border: 2px solid black;
+  width: 10vw;
+  height: 7vh;
+}
+
+.prof-books {
+  width: 5vw;
+  height: 5vh;
+  margin-top: 5vh;
+  background-color: lightgray;
+  margin-top: -0.01vh;
+  margin-left: 1vw;
+}
+
+.main-h-b {
   /* margin-top: -5vh; */
   background-color: #fff3da;
   /* background-color: #fff3da; */
@@ -11,7 +66,7 @@ main {
   align-items: center;
 }
 
-section {
+.card {
   display: flex;
   width: 85vw;
   height: 25vh;
@@ -24,7 +79,7 @@ section {
   background-color: #fff3da;
 }
 
-p {
+.p-hmpg {
   margin: auto;
   text-align: center;
 }
@@ -33,7 +88,7 @@ p {
   background-color: lightgrey;
 }
 
-span {
+.span-home {
   align-self: flex-start;
   margin-bottom: 0;
   justify-self: flex-end;
