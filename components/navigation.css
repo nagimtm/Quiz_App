@@ -20,6 +20,8 @@ nav {
 .nav-img {
   width: 11vw;
   height: 11vh;
-  /* background-color: #40f8ff; */
-  /* background-color: #279eff; */
+}
+
+[alt="bookmark-book"] {
+  background-color: lightgrey;
 }
