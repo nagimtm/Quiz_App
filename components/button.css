@@ -1,0 +1,7 @@
+.button {
+  margin-bottom: 2vh;
+  width: 18vw;
+  height: 6vh;
+  background-color: #40f8ff;
+  box-shadow: 3px 3px blur black;
+}

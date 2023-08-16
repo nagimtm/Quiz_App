@@ -1,0 +1,14 @@
+@import "./components/navigation.css";
+@import "./components/card.css";
+@import "./components/button.css";
+@import "./components/header.css";
+
+* {
+  box-sizing: border-box;
+}
+body {
+  height: 98vh;
+  border: 2px solid black;
+  box-shadow: 2px 2px 2px 2px black;
+  border-color: orange;
+}

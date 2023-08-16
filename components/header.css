@@ -1,0 +1,18 @@
+header {
+  width: 97.5vw;
+  height: 12vh;
+  border-bottom: 2px solid black;
+  box-shadow: 0 3px black;
+  position: relative;
+  background-color: #fff3da;
+}
+
+h1 {
+  font-size: 2.5rem;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 900;
+  margin-left: 38vw;
+  position: absolute;
+  text-shadow: -2px 3px black;
+  color: #279eff;
+}
